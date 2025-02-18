@@ -6,6 +6,7 @@ function App() {
     <div>
       <p>Hello World</p>
       <ChatBox />
+      <p>Hello div</p>
     </div>
   );
 }
